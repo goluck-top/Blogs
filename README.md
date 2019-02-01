@@ -9,6 +9,9 @@
 ### 阿里
 * [Alibaba](https://github.com/Alibaba)
 
+### Staruml
+* [staruml](https://github.com/staruml)
+
 ## 大厂开源平台
 * 百度：
 	* [http://fex.baidu.com/](http://fex.baidu.com/) 
